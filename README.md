@@ -8,6 +8,14 @@ Machine learning project to detect whether a news article is fake or real based 
 - Description: The dataset contains two separate CSV files — one with fake news and one with real news articles. Both were combined into a single labeled dataset.  
 - Target variable: label (0 = Fake, 1 = Real)
 
+Due to file size limits, the dataset files (`Fake.csv`, `True.csv`) are not included in this repository.
+
+You can download them directly from Kaggle:  
+https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
+
+Place both files in the project folder before running the notebook.
+
+
 ## Tools and Libraries
 
 - Python  
